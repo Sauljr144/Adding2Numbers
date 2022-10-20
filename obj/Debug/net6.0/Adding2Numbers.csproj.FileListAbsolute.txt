@@ -1,0 +1,15 @@
+C:\Users\sauls\Documents\CS Academy\Level1\Adding2Numbers\Adding2Numbers\bin\Debug\net6.0\Adding2Numbers.exe
+C:\Users\sauls\Documents\CS Academy\Level1\Adding2Numbers\Adding2Numbers\bin\Debug\net6.0\Adding2Numbers.deps.json
+C:\Users\sauls\Documents\CS Academy\Level1\Adding2Numbers\Adding2Numbers\bin\Debug\net6.0\Adding2Numbers.runtimeconfig.json
+C:\Users\sauls\Documents\CS Academy\Level1\Adding2Numbers\Adding2Numbers\bin\Debug\net6.0\Adding2Numbers.dll
+C:\Users\sauls\Documents\CS Academy\Level1\Adding2Numbers\Adding2Numbers\bin\Debug\net6.0\Adding2Numbers.pdb
+C:\Users\sauls\Documents\CS Academy\Level1\Adding2Numbers\Adding2Numbers\obj\Debug\net6.0\Adding2Numbers.csproj.AssemblyReference.cache
+C:\Users\sauls\Documents\CS Academy\Level1\Adding2Numbers\Adding2Numbers\obj\Debug\net6.0\Adding2Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sauls\Documents\CS Academy\Level1\Adding2Numbers\Adding2Numbers\obj\Debug\net6.0\Adding2Numbers.AssemblyInfoInputs.cache
+C:\Users\sauls\Documents\CS Academy\Level1\Adding2Numbers\Adding2Numbers\obj\Debug\net6.0\Adding2Numbers.AssemblyInfo.cs
+C:\Users\sauls\Documents\CS Academy\Level1\Adding2Numbers\Adding2Numbers\obj\Debug\net6.0\Adding2Numbers.csproj.CoreCompileInputs.cache
+C:\Users\sauls\Documents\CS Academy\Level1\Adding2Numbers\Adding2Numbers\obj\Debug\net6.0\Adding2Numbers.dll
+C:\Users\sauls\Documents\CS Academy\Level1\Adding2Numbers\Adding2Numbers\obj\Debug\net6.0\refint\Adding2Numbers.dll
+C:\Users\sauls\Documents\CS Academy\Level1\Adding2Numbers\Adding2Numbers\obj\Debug\net6.0\Adding2Numbers.pdb
+C:\Users\sauls\Documents\CS Academy\Level1\Adding2Numbers\Adding2Numbers\obj\Debug\net6.0\Adding2Numbers.genruntimeconfig.cache
+C:\Users\sauls\Documents\CS Academy\Level1\Adding2Numbers\Adding2Numbers\obj\Debug\net6.0\ref\Adding2Numbers.dll
